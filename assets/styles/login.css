@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+}
+.main{
+    width:80%;
+    display:block;
+    margin-top: 30px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.right{
+    margin-top:3% ;
+    margin-left: 14%;
+}
+.left{
+    border:1px solid rgb(219 219 219);
+    width: 360px;
+    height: 430px;
+    margin-top: -52%;
+    margin-left: 53%;
+    border-radius: 1px;
+}
+.img{
+    width:200px;
+    opacity: 0.8;
+}
+.mail{
+    opacity: 0.5;
+    border-radius: 4px;
+    margin-left: 23%;
+    margin-top: 3%;
+    padding: 10px;
+    width: 270px;
+}
+.log{
+    width: 270px;
+    background-color: #2196F3;
+    color: white;
+    margin-top: 10%;
+    margin-left: 23%;
+    border-radius: 8px;
+    height: 34px;
+}
+.line{
+    width: 116px;
+    margin-left: 32px;
+    margin-top: -24px;
+}
+.or{
+    margin-left: 176px;
+    margin-top: 20px;
+}
+.line2{
+    width: 116px;
+    margin-left: 214px;
+    margin-top: -10px;
+}
+.facebook{
+    width:30px;
+    height:30px;
+    margin-left:70px;
+    margin-top:10%;
+    cursor:pointer;
+}
+.facebook2{
+    color: blue;
+    margin-top: -20%;
+    margin-left: 115px;
+    cursor: pointer;
+}
+.forgot{
+    margin-top: 24px;
+    margin-left: 86px;
+    cursor: pointer;
+    color:black;
+}
+.last{
+    border: 1px solid rgb(219 219 219);
+    width: 360px;
+    height: 60px;
+    margin-top: 8%;
+    border-radius: 1px;
+    text-align: center;
+}
+.app{
+    text-align: center;
+}
+.parent{
+    display:flex;
+    gap:20px;
+}
+.child1{
+    width: 160px;
+    height: 40px;
+    margin-top: -3px;
+    margin-left:10px;
+    cursor:pointer;
+}
+.child2{
+    width: 160px;
+    height: 40px;
+    margin-top: -2px;
+    cursor:pointer;
+}
+.screenshot1{
+    margin-top: -150%;
+    margin-left: -190%;
+}
+.loginFacebook{
+    width:30%;
+}
